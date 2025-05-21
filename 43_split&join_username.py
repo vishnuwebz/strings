@@ -1,6 +1,6 @@
 # 5: split and join username
 
-username = "vishnu the coder"
+username = "vishnu_the_coder"
 parts = username.split("_")
 print(" ".join(parts))
 
